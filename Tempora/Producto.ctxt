@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Producto
+comment0.text=\r\n\ Esta\ es\ la\ clase\ producto,\ que\ tiene\ los\ datos\ nombre\ y\ precio.\r\n\ @author\ (boki)\r\n\ @version\ (1.0v)\r\n
+comment1.params=name\ price
+comment1.target=Producto(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ de\ producto.\r\n\ @param\ name\ establece\ el\ nombre\ del\ producto\r\n\ @param\ price\ establece\ el\ precio\ del\ producto\r\n
+comment2.params=prec
+comment2.target=void\ ponerPrecio(double)
+comment2.text=\r\n\ Establece\ el\ precio\ de\ producto\r\n\ @param\ es\ un\ entero\ que\ corresponde\ a\ precio\r\n
+comment3.params=nom
+comment3.target=void\ ponerNombre(java.lang.String)
+comment3.text=\r\n\ Establece\ el\ nombre\ de\ producto\r\n\ @param\ es\ una\ cadena\ de\ caracteres\ que\ establece\ el\ nombre\r\n
+comment4.params=
+comment4.target=java.lang.String\ verNombre()
+comment4.text=\r\n\ Devuelve\ el\ nombre\r\n
+comment5.params=
+comment5.target=double\ verPrecio()
+comment5.text=\r\n\ Devuelve\ el\ precio\r\n
+numComments=6

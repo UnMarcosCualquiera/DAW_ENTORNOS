@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Linea
+comment0.text=\r\n\r\n
+comment1.params=producto\ cant
+comment1.target=Linea(Producto,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Linea\r\n
+comment2.params=p
+comment2.target=void\ setProducto(Producto)
+comment3.params=
+comment3.target=Producto\ getProducto()
+comment4.params=cant
+comment4.target=void\ setCantidad(int)
+comment5.params=cant
+comment5.target=int\ getCantidad(int)
+comment6.params=cant\ p
+comment6.target=double\ totalAmmount(int,\ Producto)
+numComments=7
